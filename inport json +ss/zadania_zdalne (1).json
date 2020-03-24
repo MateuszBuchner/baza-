@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"test"},
+{"type":"table","name":"zadania_zdalne","database":"test","data":
+[
+{"data_dzien":"2020-03-24","klasa":"","przedmiot":null,"zajecia":null,"zadanie_domowe":null,"liczba_uczestnikow":null},
+{"data_dzien":"0000-00-00","klasa":"2w","przedmiot":"x","zajecia":"y","zadanie_domowe":"t","liczba_uczestnikow":"21"},
+{"data_dzien":"0000-00-00","klasa":"421","przedmiot":"23","zajecia":"1412","zadanie_domowe":"24","liczba_uczestnikow":"124"},
+{"data_dzien":"0000-00-00","klasa":"3","przedmiot":"232","zajecia":"23","zadanie_domowe":"2323","liczba_uczestnikow":"321"}
+]
+}
+]
